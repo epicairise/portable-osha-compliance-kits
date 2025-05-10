@@ -1,10 +1,11 @@
+
 [
   {
     "position": 1,
     "name": "Accuform Mobile Safety Kit",
     "slug": "accuform-mobile-safety-kit",
     "description": "A complete, portable OSHA compliance solution in a rugged case, ideal for mobile crews.",
-    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/accuform-mobile-kit.jpg",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/accuform-mobile-safety-kit.jpg",
     "target_audience_match": "Perfect for site supervisors constantly bouncing between sites and needing to prove compliance without hauling a whole cabinet.",
     "price": "From $89",
     "data-link": "pending"
@@ -24,7 +25,7 @@
     "name": "ComplianceSigns Portable Safety Center",
     "slug": "compliancesigns-portable-center",
     "description": "Wall-mountable or freestanding station for compliance on temporary worksites.",
-    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/compliancesigns-center.jpg",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/compliancesigns-portable-center.jpg",
     "target_audience_match": "Great for teams running temporary or pop-up sites who need visibility and compliance at a glance.",
     "price": "From $99",
     "data-link": "pending"
@@ -34,7 +35,7 @@
     "name": "North Safety Mobile First Response Kit",
     "slug": "north-safety-mobile-kit",
     "description": "A mobile OSHA first aid and PPE bundle built for emergencies and inspections.",
-    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/north-safety-kit.jpg",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/north-safety-mobile-kit.jpg",
     "target_audience_match": "Essential for leads who dread surprise inspections or worry about injury response on shifting job sites.",
     "price": "From $79",
     "data-link": "pending"
@@ -44,8 +45,8 @@
     "name": "TuffKit Pro Contractor Safety Pack",
     "slug": "tuffkit-pro-contractor-pack",
     "description": "Heavy-duty OSHA compliance kit made for high-mobility, high-risk industries.",
-    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/tuffkit-pro.jpg",
-    "target_audience_match": "Built for crews always on the move — especially in dirty, wet, or high-traffic zones where gear takes a beating.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/tuffkit-pro-contractor-pack.jpg",
+    "target_audience_match": "Built for crews always on the move \u2014 especially in dirty, wet, or high-traffic zones where gear takes a beating.",
     "price": "From $149",
     "data-link": "pending"
   }
